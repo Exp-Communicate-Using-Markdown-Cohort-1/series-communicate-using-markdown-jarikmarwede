@@ -4,3 +4,7 @@
 ```js
 console.log("Hello world");
 ```
+- [x] Add headers
+- [x] Add image
+- [x] Add code example
+- [ ] Add task list
